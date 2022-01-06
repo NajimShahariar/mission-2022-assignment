@@ -14,6 +14,10 @@ section{
     margin-left: 5%;
     padding-left: 2%;
 }
+.half-div h1{
+    border-left: 5px solid #7272eb;
+    margin-right: 2px;
+}
 h1{
     font-family:'Times New Roman';
     font-size: 60px;
